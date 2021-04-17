@@ -1,7 +1,7 @@
 
 # open the file and get the thing
 
-f = open("myWLAN.txt", "r")
+f = open("../NT/WPN.txt", "r")
 
 lines = f.readlines()
 
