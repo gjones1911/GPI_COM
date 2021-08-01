@@ -1,0 +1,13 @@
+
+{
+  "IP": "000.000.11.1.1.",
+  "name": "PI_NAME",
+  "webhook1": "",
+  "gmail": "@gmail.com",
+  "username": "pi",
+  "pwd": "raspberry",
+  "Slack_key": "",
+  "gituser": "gitusername",
+  "git_token": "Token",
+  "git_email": "git_email"
+}

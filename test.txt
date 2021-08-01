@@ -1,1 +1,10 @@
 And here we go....
+
+Setting up static IP: https://www.att.com/support/smallbusiness/article/smb-internet/KM1181996/
+
+Setting up ssh on pi:
+
+
+Setting up pi with tensor flow: https://github.com/PINTO0309/Tensorflow-bin/#usage
+
+
