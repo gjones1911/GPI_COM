@@ -1,17 +1,17 @@
 
 {
-  "IP": "000.000.11.1.1.",
-  "name": "PI_NAME",
+  "IP": "192.168.1.81",
+  "name": "BIG_PI_DEUCE",
   "webhook1": "",
   "gmail": "@gmail.com",
   "username": "pi",
-  "pwd": "raspberry",
+  "pwd": "B1g@PI0MG2",
   "Slack_key": "",
   "gituser": "gitusername",
   "git_token": "Token",
   "git_email": "git_email",
   "siblings":{
-  	"1":"",
-	"2": ""
+  "BIG_PI_ACE":"192.168.1.79",
+  "LIL_PI_ACE":"192.168.1.77"
   }
 }

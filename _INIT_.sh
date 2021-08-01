@@ -2,21 +2,31 @@
 
 # Author: Gerald Jones
 # Purpose: Initialize a new raspberry pi for general operation
-#
+
+
 echo "what is my pi name that will be used for message and communication?"
 read PI_Name
 echo "PI: $PI_Name will begin initial set up"
 echo "Hang tight, I may need your input....."
+echo ""
+# install good old vim
+sudo apt install vim
 
 # install git checkout -b branch_name
 sudo apt update
 sudo apt install git
 
+# set up the git info
+git config --global user.email gjones2@vols.utk.edu
+git config --global user.name gjones1911
+
+
 #
 echo "we have installed git:" git --version
+echo ""
 
 # upgrade pip and set up tools
-python3 -m pip --upgrade pip
+python3 -m pip install --upgrade pip
 sudo pip3 install --upgrade setuptools
 
 
